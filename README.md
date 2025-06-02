@@ -60,7 +60,7 @@ Selenium
 Playwright
 
 
-****Groups followed on LinkedIn ****
+**Groups followed on LinkedIn**
 
 Software Testing and Quality Assurance group
 Test Automation
@@ -69,6 +69,6 @@ Ai Mindshare - Artificial Intelligence, Machine Learning, ML, Data Science, Gen 
 
 
 
-****Sample Bug report - Created in the past 10 months****
+**Sample Bug report - Created in the past 10 months**
 
 BugReport_2024-2025.xlsx
