@@ -49,26 +49,20 @@ Proficient in Selenium WebDriver with Java, TestNG, Page Object Model (POM), and
 - Conducted UAT, prepared RTMs, and contributed to Agile sprint ceremonies.  
 - Reduced test setup time by designing a centralized test data repository.
 
-##Certification
+### **Certification**  
+ - ISTQB Foundation Level 
 
-ISTQB Foundation Level 
+### **Learning**  
+- Selenium
+- Playwright
 
-
-##Learning
-
-Selenium
-Playwright
-
-
-**Groups followed on LinkedIn**
+### **Groups followed on LinkedIn**  
 
 - Software Testing and Quality Assurance group
 - Test Automation
 - Quality Assurance - QA Professional, Testing, Test Automation, SDET
 - Ai Mindshare - Artificial Intelligence, Machine Learning, ML, Data Science, Gen & Business Analyst.
 
-
-
-**Sample Bug report - Created in the past 10 months**
+### **Sample Bug report - Created in the past 10 months**  
 
 BugReport_2024-2025.xlsx
